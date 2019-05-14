@@ -1,6 +1,6 @@
 enabled: true
 delay: 5
-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiYXVkIjoic2FtcGxlLXBhaWQtYm90QHN0b2J2ZWR4eXovdGVzdC1wdWJsaWMifQ.ORU93qMlq2VM6JTdW51qqxW34cYTRFt2ZlCiaDi-Evs
+#token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiYXVkIjoic2FtcGxlLXBhaWQtYm90QHN0b2J2ZWR4eXovdGVzdC1wdWJsaWMifQ.ORU93qMlq2VM6JTdW51qqxW34cYTRFt2ZlCiaDi-Evs
 
 trackers:
   "KT-[0-9]+": "https://youtrack.jetbrains.com/issue/$ISSUE"
